@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ZED\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ZED\\.nuget\\packages"
+    ]
+  }
+}
